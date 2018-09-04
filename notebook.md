@@ -6,7 +6,6 @@ Be familiar with those necessary tools
 Use python to solove some problems for practicing
 Attended online zoom meeting
 
-
 Week Fri 08/24/18 - 30/08/18
 Add bio in piazza
 

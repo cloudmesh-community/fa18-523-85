@@ -1,5 +1,11 @@
 You will add to your notebook in bullet form for each week what you have done. Please make sure you update it every week even if you have no time to work on anything. YOu can surely spend 2 minutes to update this document.
 
+# Week Fri 09/04/18 - 09/20/18
+
+* Attended lecture
+* Reviewed some knowledge about vecotr
+* Collected related materials about the summary
+
 # Week Fri 09/07/18 - 09/13/18
 
 * Attended the lecture
@@ -19,6 +25,4 @@ You will add to your notebook in bullet form for each week what you have done. P
 # Week Fri 08/24/18 - 08/30/18
 * Add bio in piazza
 
-In cas you dod not work during the week, you still need to report it with 
 
-* N/A

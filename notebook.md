@@ -1,6 +1,6 @@
 You will add to your notebook in bullet form for each week what you have done. Please make sure you update it every week even if you have no time to work on anything. YOu can surely spend 2 minutes to update this document.
 
-# Week Fri 09/04/18 - 09/20/18
+# Week Fri 09/14/18 - 09/20/18
 
 * Attended lecture
 * Reviewed some knowledge about vecotr

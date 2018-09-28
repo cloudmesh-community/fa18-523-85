@@ -1,5 +1,12 @@
 You will add to your notebook in bullet form for each week what you have done. Please make sure you update it every week even if you have no time to work on anything. YOu can surely spend 2 minutes to update this document.
 
+# Week Fri 09/21/18 - 09/27/18
+
+
+* Used python to process csv data with matrix method
+* Working on the summaries
+* Set up the jupyter for coding in Python
+
 # Week Fri 09/14/18 - 09/20/18
 
 * Attended lecture

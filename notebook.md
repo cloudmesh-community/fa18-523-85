@@ -1,5 +1,11 @@
 You will add to your notebook in bullet form for each week what you have done. Please make sure you update it every week even if you have no time to work on anything. YOu can surely spend 2 minutes to update this document.
 
+# Week Fri 09/28/18 - 10/04/18
+
+* Used python to process twitter data by nearest neigbor classifer
+* Collected materials of the summeries
+* Checked for possibile topics of the final project
+
 # Week Fri 09/21/18 - 09/27/18
 
 

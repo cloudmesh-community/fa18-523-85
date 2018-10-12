@@ -15,24 +15,31 @@ Consumer Behaviors, Python, TensorFlow, big data, deep learning
 ## INTRODUCTION   
 
 
-The availability of data at large volume, variety, velocity and veracity, often termed as ‘Big Data’, had a big impact on marketing research and practice. The wealth of personal information available about consumers online makes it possible to understand and cater to the individual needs of consumers better than ever before. Whether it is their Spotify playlists, Facebook profile, Google search queries, or mobile location, the digital footprints consumers leave with every step they take in the digital environment create extensive records of their personal habits and preferences [1]. By tapping into this rich pool of consumer data, businesses can enhance consumers’ experience by better matching the marketing offering to consumers’ preferences and do so at the appropriate moment.
+As we know, Big Data always comes with 3V: volume, velocity and veracity. Internet allows us to do almost all work online and keep records of our actions. If you listen a song in the playlist, maybe iTunes will record it as part of your individual activity log, which could be the dataset that explore your interest. If you often use Uber to commute between your home and your company, maybe they could picture your daily life including the places that you have spent time in. If you use your device to safari on the internet, your action of clicking on several links could also be recorded and researched since the action contains you using habits and preferences [1]. The online shopping data includes consumer’s all kinds of information: age, job, education, catalog preferences, price sensitivity, etc. But some of them are not presented to us directly, mining the consumer behaviors is an appropriate way to get access to the hidden information. How could we mine something meaningful to explore consumer behaviors and provide valuable insight? The answer lies on several using cases and the understanding of market research and also the human psychology research.
+
 
 ## TECHNOLOGY BECKGROUND   
 
 
-TensorFlow is an open source software library for numerical computation using data flow graphs. The graph nodes represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This flexible architecture enables you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device without rewriting code. TensorFlow also includes TensorBoard, a data visualization toolkit.   
+TensorFlow is an open source software library for numerical computation using data flow graphs [2]. Tensor is a term in math and the flow indicate the action that TensorFlow will help you to finish. You can deploy computation to CPU or GPU, as we know, in blockchain, GPU works better than CPU since the fundamental design of GPU fits better in the computation of blockchain. TesorBoard, a data visualization toolkit, is also included in TensorFlow.   
 
+TensorFlow was originally developed by researchers and engineers working on the Google Brain team within Google's Machine Intelligence Research organization for the purposes of conducting machine learning and deep neural networks research. The system is general enough to be applicable in a wide variety of other domains, as well [2]. To support more developers, Python API and C APIs are also available in TensorFlow.
 
-TensorFlow was originally developed by researchers and engineers working on the Google Brain team within Google's Machine Intelligence Research organization for the purposes of conducting machine learning and deep neural networks research. The system is general enough to be applicable in a wide variety of other domains, as well.   
-
-
-TensorFlow provides stable Python API and C APIs as well as without API backwards compatibility guarantee like C++, Go, Java, JavaScript and Swift.   
 
 
 ##  BIG DATA APPLICATIONS TO UNDERSTANDING BEHAVIORS   
 
 
-Research that mine the behaviors data in multiple ways.
+Research that mine the behaviors data in multiple ways.   
+
+The behaviors have many kinds of manifestation, some of them are digital and some are not. The customers may act across in multiple pages or interaction interface, which could contain useful information to picture the customer. There is a way to implement the analytics called, the “four rights”, talk to the right audience, through the right channel, with the right message, ate the right time [3].   
+
+Understanding customer behavior can help your organization in more ways than you think. The entire customer lifecycle can be optimized using behavior analytics:   
+
+* Customer acquisition: Marketing will target high-value customer segments identified by behavior analytics and study behavior patterns to determine the best potential offers.
+* Customer engagement: Behavior patterns will be used to generate personalized next-best, cross-sell and up-sell offers, while behavioral customer segmentation will be used for more general customer marketing offers.
+* Customer retention: Behavior patterns will be used to detect possible customer churn and generate next-best retention offers [3].
+
 
 ## USING CASE   
 
@@ -52,3 +59,6 @@ Some challenges in mining behaviors data, such as how to clean the data, how to 
 ## REFERENCE (will be supplemented and transferred to bibtex)   
 
 [1] Matz, S. C., & Netzer, O. (2017). Using big data as a window into consumers’ psychology. Current Opinion in Behavioral Sciences, 18, 7-12.
+[2] https://en.wikipedia.org/wiki/TensorFlow   
+[3] https://www.datameer.com/blog/six-ways-create-better-customer-behavior-analytics/   
+

@@ -4,3 +4,8 @@ owner:
   lastname: "Li"
   hid: "fa18-523-85"
   community: "E534"
+technologies:
+    -url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/blaze.md   
+    -url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/daal-intel.md   
+    -url:......
+    -url:......

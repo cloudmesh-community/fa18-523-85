@@ -5,17 +5,16 @@ owner:
   hid: "fa18-523-85"
   community: "E534"
 technologies:
-    - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/blaze.md   
-    - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/daal-intel.md   
-    - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/osgi.md   
-    - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lxc.md   
-
-paper   
-    -title: TBD   
-     url: TBD   
-     group: TBD   
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/blaze.md   
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/daal-intel.md   
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/osgi.md   
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lxc.md   
+paper:
+  - title: TBD   
+    url: TBD   
+    group: TBD   
 project:   
-    -title:    
-     url:   
-     group:   
-     code:   
+    -title: TBD    
+     url:   TBD
+     group: TBD  
+     code:  TBD 

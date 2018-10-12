@@ -1,4 +1,4 @@
-## Analytics in Consumer Behaviors in Black Friday with TensorFlow
+## Analytics in Consumer Behaviors in Black Friday with TensorFlow (Draft)
 Bo Li   
 Indiana University Bloomington  
 1130 N Union Ct   

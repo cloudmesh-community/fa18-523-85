@@ -7,5 +7,5 @@ owner:
 technologies:
     -url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/blaze.md   
     -url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/daal-intel.md   
-    -url:......
-    -url:......
+    -url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/osgi.md   
+    -url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lxc.md   

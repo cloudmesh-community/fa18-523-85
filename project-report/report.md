@@ -8,7 +8,7 @@ bl15@iu.edu
 ## ABSTRACT
 As internet developed, online shopping has become part of our daily life. Black Friday- a traditional deal day, has also transformed as a big day for online shopping. The internet retailers, such Amazon, also developed their specific strategy for the combat in online shopping, Amazon Prime Day. The developed internet techniques allow us collect and store the trading data, which could be the most valuable materials for researching customer behaviors. In this article, we get the dataset of trading data in Black Friday and use TensorFlow to analysis the data in different dimensions. The dataset has several features, some of them are valuable for the research and some are not, some meaningful insights are behind the dataset, by using TensorFlow, we are able to explore the dataset in details with models.   
 
-## KEYWORDS   
+### KEYWORDS   
 Behavior big data, human behavior, TensorFlow, data mining, deep learning   
  
 ## INTRODUCTION   
@@ -34,13 +34,13 @@ Tensorflow is one of the widely used libraries for implementing Machine learning
 
 ## ALGORITHMS AND METHOLOGY
 
-# 4.1 KNN   
+### 4.1 KNN   
 In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification and regression [5]. In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether k-NN is used for classification or regression:   
 *	In k-NN classification, the output is a class membership. An object is classified by a majority vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.   
 * In k-NN regression, the output is the property value for the object. This value is the average of the values of its k nearest neighbors.
 k-NN is a type of instance-based learning, or lazy learning, where the function is only approximated locally and all computation is deferred until classification. The k-NN algorithm is among the simplest of all machine learning algorithms.   
 
-# 4.2 Naive Bayes classifier
+### 4.2 Naive Bayes classifier
 
 In machine learning, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naive) independence assumptions between the features.   
 
@@ -48,13 +48,13 @@ Naive Bayes classifiers are highly scalable, requiring a number of parameters li
 
 ## DATA ANALYTICS   
 
-# 5.1 Data Cleaning   
+### 5.1 Data Cleaning   
 
-# 5.2 Data Exploration and Processing   
+### 5.2 Data Exploration and Processing   
 
-# 5.3 Data Analysis   
+### 5.3 Data Analysis   
 
-# 5.4 Data Visualization    
+### 5.4 Data Visualization    
 
 
 ## CONCLUSION

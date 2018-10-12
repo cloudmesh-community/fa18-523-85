@@ -11,10 +11,10 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lxc.md   
 paper:
   - title: Big Data Analytics in Consumer Behaviors     
-    url: https://github.com/cloudmesh-community/fa18-523-85/blob/master/paper/paper.md    
+    url: https://github.com/cloudmesh-community/fa18-523-85/blob/master/paper/    
     group: fa18-523-85   
 project:   
-  - title: TBD    
-    url:   TBD
-    group: TBD  
-    code:  TBD 
+  - title: Analytics in Consumer Behaviors in Black Friday with TensorFlow    
+    url:   https://github.com/cloudmesh-community/fa18-523-85/tree/master/project-report   
+    group: fa18-523-85    
+    code:  https://github.com/cloudmesh-community/fa18-523-85/tree/master/project-code 

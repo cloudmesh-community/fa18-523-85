@@ -16,7 +16,7 @@ Keywords: Consumer Behaviors, Python, TensorFlow, big data, deep learning
 
 ## Abstract
 
-Nowadays, online shopping has become a more popular way in consuming. Traditional retailers are eager to find a way to maintain the revenue, the online retailers are also finding ways to extend the market. The rise of ‘big data’ had impacted on marketing research and practice a lot. As technology developed, we have huge data of consumer behaviors which could be very detailed and accurate, but how to mine the data is a problem. In this article, we talk about the application of big data in the consumer behaviors data, subsequently discuss how the TensorFlow can translate the data into valuable conclusions in consumers’ behaviors research.
+Nowadays, online shopping has become a more popular way in consuming. Traditional retailers are eager to find a way to maintain the revenue, the online retailers are also finding ways to extend the market. The rise of 'big data' had impacted on marketing research and practice a lot. As technology developed, we have huge data of consumer behaviors which could be very detailed and accurate, but how to mine the data is a problem. In this article, we talk about the application of big data in the consumer behaviors data, subsequently discuss how the TensorFlow can translate the data into valuable conclusions in consumers’ behaviors research.
 
 
 ## Introduction
@@ -70,6 +70,6 @@ will be supplemented and transferred to bibtex
 :o: http must be in <>
 
 [1] Matz, S. C., & Netzer, O. (2017). Using big data as a window into consumers’ psychology. Current Opinion in Behavioral Sciences, 18, 7-12.
-[2] https://en.wikipedia.org/wiki/TensorFlow
-[3] https://www.datameer.com/blog/six-ways-create-better-customer-behavior-analytics/
+[2] <https://en.wikipedia.org/wiki/TensorFlow>
+[3] <https://www.datameer.com/blog/six-ways-create-better-customer-behavior-analytics/>
 

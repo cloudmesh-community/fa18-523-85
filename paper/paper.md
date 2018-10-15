@@ -69,7 +69,7 @@ will be supplemented and transferred to bibtex
 
 :o: http must be in <>
 
-[1] Matz, S. C., & Netzer, O. (2017). Using big data as a window into consumers’ psychology. Current Opinion in Behavioral Sciences, 18, 7-12.
+[1] Matz, S. C., & Netzer, O. (2017). Using big data as a window into consumers’ psychology. Current Opinion in Behavioral Sciences, 18, 7-12.   
 [2] <https://en.wikipedia.org/wiki/TensorFlow>   
 [3] <https://www.datameer.com/blog/six-ways-create-better-customer-behavior-analytics/>   
 

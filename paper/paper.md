@@ -1,4 +1,4 @@
-# Big Data Analytics in Consumer Behaviors (Draft)
+# Big Data Analytics in Consumer Behaviors :hand: fa18-523-85
 
 Bo Li
 Indiana University Bloomington

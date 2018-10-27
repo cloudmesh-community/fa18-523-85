@@ -37,13 +37,15 @@ Tensorflow is one of the widely used libraries for implementing Machine learning
 
 ## ALGORITHMS AND METHOLOGY
 
-### 4.1 KNN
+
+### KNN
+
 In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification and regression [5]. In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether k-NN is used for classification or regression:
 *	In k-NN classification, the output is a class membership. An object is classified by a majority vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.
 * In k-NN regression, the output is the property value for the object. This value is the average of the values of its k nearest neighbors.
 k-NN is a type of instance-based learning, or lazy learning, where the function is only approximated locally and all computation is deferred until classification. The k-NN algorithm is among the simplest of all machine learning algorithms.
 
-### 4.2 Naive Bayes classifier
+### Naive Bayes classifier
 
 In machine learning, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
 
@@ -51,13 +53,13 @@ Naive Bayes classifiers are highly scalable, requiring a number of parameters li
 
 ## DATA ANALYTICS
 
-### 5.1 Data Cleaning
+### Data Cleaning
 
-### 5.2 Data Exploration and Processing
+### Data Exploration and Processing
 
-### 5.3 Data Analysis
+### Data Analysis
 
-### 5.4 Data Visualization 
+### Data Visualization 
 
 
 ## CONCLUSION
@@ -72,9 +74,9 @@ The limitations in the analytics caused by the selection of research method, alg
 
 ## REFERENCE (will be supplemented and transferred to bibtex)
 
-[1] Shmueli, G. (2017). Research dilemmas with behavioral big data. Big Data, 5(2), 98.
-[2] https://www.kaggle.com/mehdidag/black-friday/home
-[3] https://hackernoon.com/introduction-of-tensorflow-with-python-f4a9624f2ab2
-[4] https://towardsdatascience.com/a-beginner-introduction-to-tensorflow-part-1-6d139e038278
-[5] https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
-[6] https://en.wikipedia.org/wiki/Naive_Bayes_classifier
+* [1] Shmueli, G. (2017). Research dilemmas with behavioral big data. Big Data, 5(2), 98.
+* [2] https://www.kaggle.com/mehdidag/black-friday/home
+* [3] https://hackernoon.com/introduction-of-tensorflow-with-python-f4a9624f2ab2
+* [4] https://towardsdatascience.com/a-beginner-introduction-to-tensorflow-part-1-6d139e038278
+* [5] https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+* [6] https://en.wikipedia.org/wiki/Naive_Bayes_classifier

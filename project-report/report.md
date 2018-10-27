@@ -1,4 +1,4 @@
-## Analytics in Consumer Behaviors in Black Friday with TensorFlow :hand: fa18-523-85
+# Analytics in Consumer Behaviors in Black Friday with TensorFlow :hand: fa18-523-85
 
 Bo Li
 Indiana University Bloomington
@@ -10,7 +10,7 @@ bl15@iu.edu
 
 As internet developed, online shopping has become part of our daily life. Black Friday- a traditional deal day, has also transformed as a big day for online shopping. The internet retailers, such Amazon, also developed their specific strategy for the combat in online shopping, Amazon Prime Day. The developed internet techniques allow us collect and store the trading data, which could be the most valuable materials for researching customer behaviors. In this article, we get the dataset of trading data in Black Friday and use TensorFlow to analysis the data in different dimensions. The dataset has several features, some of them are valuable for the research and some are not, some meaningful insights are behind the dataset, by using TensorFlow, we are able to explore the dataset in details with models.
 
-### KEYWORDS
+## KEYWORDS
 
 Behavior big data, human behavior, TensorFlow, data mining, deep learning
  

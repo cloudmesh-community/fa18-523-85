@@ -12,11 +12,11 @@ technologies:
 paper:
   - title: Big Data Analytics in Consumer Behaviors
     keyword: Consumer
-    url: https://github.com/cloudmesh-community/fa18-523-85/blob/master/paper/    
-    group: fa18-523-85   
-project:   
-  - title: Analytics in Consumer Behaviors in Black Friday with TensorFlow 
+    url: https://github.com/cloudmesh-community/fa18-523-85/blob/master/paper/
+    group: fa18-523-85
+project:
+  - title: Analytics in Consumer Behaviors in Black Friday with TensorFlow
     keyword: Consumer Tensorflow
-    url:   https://github.com/cloudmesh-community/fa18-523-85/tree/master/project-report   
-    group: fa18-523-85    
-    code:  https://github.com/cloudmesh-community/fa18-523-85/tree/master/project-code 
+    url:   https://github.com/cloudmesh-community/fa18-523-85/tree/master/project-report
+    group: fa18-523-85
+    code:  https://github.com/cloudmesh-community/fa18-523-85/tree/master/project-code

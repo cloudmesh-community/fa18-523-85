@@ -32,11 +32,11 @@ that explore your interest. If you often use Uber to commute between your home
 and your company, maybe they could picture your daily life including the places
 that you have spent time in. If you use your device to safari on the internet,
 your action of clicking on several links could also be recorded and researched
-since the action contains you using habits and preferences [1]. The online
-shopping data includes consumer’s all kinds of information: age, job, education,
-catalog preferences, price sensitivity, etc. But some of them are not presented
-to us directly, mining the consumer behaviors is an appropriate way to get
-access to the hidden information. How could we mine something meaningful to
+since the action contains you using habits and preferences [@Matz2017Using]. The
+online shopping data includes consumer’s all kinds of information: age, job,
+education, catalog preferences, price sensitivity, etc. But some of them are not
+presented to us directly, mining the consumer behaviors is an appropriate way to
+get access to the hidden information. How could we mine something meaningful to
 explore consumer behaviors and provide valuable insight? The answer lies on
 several using cases and the understanding of market research and also the human
 psychology research.
@@ -44,19 +44,19 @@ psychology research.
 ## Technology Background
 
 TensorFlow is an open source software library for numerical computation using
-data flow graphs [2]. TensorFlow could help developers to transform from code to
-graph, which could benefit developer in understanding their work, and the term
-tensor, is generated in the process, as the tensor will go from the beginning to
-the end of the graph, so the technology is called TensorFlow. The process of
-computation could be done in CPU or GPU, as we know, in blockchain, GPU works
-better than CPU since the fundamental design of GPU fits better in the
-computation of mining coins. TensorFlow also has a data visualization module
-called TensorBoard, which contains the common drawing tools as well as some
-useful templates for the developers to visualize their data. There is no doubt
-that graph will be more clear than codes especially when the structure of data
-is very complex. And graph could give the readers a direct presentation of the
-data, which is worthwhile since it could reduce the communication cost between
-different developers.    
+data flow graphs [@abadi2016tensorflow]. TensorFlow could help developers to
+transform from code to graph, which could benefit developer in understanding
+their work, and the term tensor, is generated in the process, as the tensor will
+go from the beginning to the end of the graph, so the technology is called
+TensorFlow. The process of computation could be done in CPU or GPU, as we know,
+in blockchain, GPU works better than CPU since the fundamental design of GPU
+fits better in the computation of mining coins. TensorFlow also has a data
+visualization module called TensorBoard, which contains the common drawing tools
+as well as some useful templates for the developers to visualize their data.
+There is no doubt that graph will be more clear than codes especially when the
+structure of data is very complex. And graph could give the readers a direct
+presentation of the data, which is worthwhile since it could reduce the
+communication cost between different developers.    
 
 There is a team in Google called Brain team, which is the initial developer of
 TensorFlow, there original purpose of the development of this module is to
@@ -82,7 +82,7 @@ conduct different operations in different pages of the website, but most of them
 are very import to provide an essential information for us to find the
 customer's preferences. "There is a way to achieve that which is called four
 rights. Talk to the right audience, through the right channel, with the right
-message, at the right time" [3].     
+message, at the right time" [@datameer2018article].     
 
 "Customer acquisition: Marketing will target high-value customer segments
 identified by behavior analytics and study behavior patterns to determine the
@@ -90,7 +90,7 @@ best potential offers. Customer engagement: Behavior patterns will be used to
 generate personalized next-best, cross-sell and up-sell offers, while behavioral
 customer segmentation will be used for more general customer marketing offers.
 Customer retention: Behavior patterns will be used to detect possible customer
-churn and generate next-best retention offers" [3].   
+churn and generate next-best retention offers" [@datameer2018article].   
 
 The strategic meaning of big data is that deploying professional analysis on
 those meaningful datasets generated from the E-commerce trading. The improvement
@@ -168,13 +168,14 @@ consumers, the cost is significant lower than the traditional commerce.
 Due to the hotness of machine learning and deep learning, there are a lot of
 applications in every domain. Search ranking and recommendation are the most
 common two applications. "Recommendation systems in particular benefit from
-specialized features describing past user behavior with items" [4].    
+specialized features describing past user behavior with items"
+[@covington2016deep].    
 
 Just like search ranking, recommendation systems also have a problem of the
 balance between memorization and generalization. Memorization can be seen as the
 representing of the relationship between the products and users, which can be
 extracted as vectors. Generalization is to generate rare feature combinations in
-order to serve for the recommendation systems [5].   
+order to serve for the recommendation systems [@cheng2016wide].   
 
 TensorFlow, with so many advantages in machine learning, is very appropriate for
 the recommendation system. Since the features of products could be learned by
@@ -194,7 +195,7 @@ products. Such pair of presentations contains the most match user and product
 calculated by the model, the vectors in the model contain all the information of
 the user and the product. The last step is to compare the generated score and
 the actual comment from users to define the result's quality, which is called
-loss function [6].   
+loss function [@csdn2018tensorflow].   
 
 TensorRec scores recommendations by consuming user and item features (ids, tags,
 or other metadata) and building two low-dimensional vectors, a "user
@@ -205,7 +206,7 @@ highest scores are predicted to be the best recommendations.
 The representation function in TensorRec can be set up by developer's
 preferences, it could extract the features of users as well as products. It can
 be very convenient for developers to set the parameters independently since the
-scenario varies in different cases [6].   
+scenario varies in different cases [@csdn2018tensorflow].   
 
 ## Conclusion
 
@@ -229,5 +230,4 @@ between the actions and the features. Several factors which measure the user's
 preferences can represent the user, and those factors are also the key
 parameters in the model. Once we get a clear picture of the user, we are able to
 customize the recommendation, which can not only improve the user's experience
-and also improve the revenue of the online retailer.   
-
+and also improve the revenue of the online retailer.  

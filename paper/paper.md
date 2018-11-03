@@ -1,5 +1,10 @@
 # Big Data Analytics in E-commerce :hand: fa18-523-85
 
+:o: format incorrect
+
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-85/edit/master/paper/paper.md)
+
+
 Bo Li Indiana University Bloomington 1130 N Union Ct Bloomington, Indiana
 bl15@iu.edu
 

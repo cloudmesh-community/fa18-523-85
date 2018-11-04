@@ -4,15 +4,15 @@ owner:
   lastname: "Li"
   hid: "fa18-523-85"
   community: "e534"
-  semester: fa18
+  profile: "https://github.com/Hidgons"
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/blaze.md   
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/daal-intel.md   
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/osgi.md   
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lxc.md   
 paper:
-  - title: Big Data Analytics in Consumer Behaviors
-    keyword: Consumer
+  - title: Big Data Analytics in E-commerce
+    keyword: E-commerce
     url: https://github.com/cloudmesh-community/fa18-523-85/blob/master/paper/
     group: fa18-523-85
 project:

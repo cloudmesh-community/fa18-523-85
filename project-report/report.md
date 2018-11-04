@@ -1,10 +1,15 @@
 # Analytics in Consumer Behaviors in Black Friday with TensorFlow :hand: fa18-523-85
 
+:o: format not followed
+
 Bo Li
 Indiana University Bloomington
 1130 N Union Ct
 Bloomington, Indiana
 bl15@iu.edu
+
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-83/blob/master/project-report/report.md)
+
 
 ## Abstract
 

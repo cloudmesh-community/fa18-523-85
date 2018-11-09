@@ -80,17 +80,10 @@ work is done by Python.
 Since the design of the website is getting more complex than before, the users
 may conduct different operations in different pages of the website, but most of
 them are very import to provide an essential information for us to find the
-customer's preferences. "There is a way to achieve that which is called four
-rights. Talk to the right audience, through the right channel, with the right
-message, at the right time" [@datameer2018article].
+customer's preferences.
+>"There is a way to achieve that which is called four rights. Talk to the right audience, through the right channel, with the right message, at the right time" [@datameer2018article].
 
-"Customer acquisition: Marketing will target high-value customer segments
-identified by behavior analytics and study behavior patterns to determine the
-best potential offers. Customer engagement: Behavior patterns will be used to
-generate personalized next-best, cross-sell and up-sell offers, while behavioral
-customer segmentation will be used for more general customer marketing offers.
-Customer retention: Behavior patterns will be used to detect possible customer
-churn and generate next-best retention offers" [@datameer2018article].
+> "Customer acquisition: Marketing will target high-value customer segments identified by behavior analytics and study behavior patterns to determine the best potential offers. Customer engagement: Behavior patterns will be used to generate personalized next-best, cross-sell and up-sell offers, while behavioral customer segmentation will be used for more general customer marketing offers. Customer retention: Behavior patterns will be used to detect possible customer churn and generate next-best retention offers" [@datameer2018article].
 
 The strategic meaning of big data is that deploying professional analysis on
 those meaningful datasets generated from the E-commerce trading. The improvement
@@ -167,9 +160,8 @@ consumers, the cost is significantly lower than the traditional commerce.
 
 Due to the hotness of machine learning and deep learning, there are a lot of
 applications in every domain. Search ranking and recommendation are the most
-common two applications. "Recommendation systems in particular benefit from
-specialized features describing past user behavior with items"
-[@covington2016deep].
+common two applications.
+>"Recommendation systems in particular benefit from specialized features describing past user behavior with items" [@covington2016deep].
 
 Just like search ranking, recommendation systems also have a problem of the
 balance between memorization and generalization. Memorization can be seen as the

@@ -1,5 +1,11 @@
 You will add to your notebook in bullet form for each week what you have done. Please make sure you update it every week even if you have no time to work on anything. YOu can surely spend 2 minutes to update this document.   
 
+# Week Fri 11/02/18 - 11/08/18
+
+* Conducted some work t improve the paper
+* Improved the citiation of the paper
+* Conducted some basic work of the dataset prepared for the fianl project
+
 # Week Fri 10/26/18 - 11/01/18
 
 * Finished the 2-page paper and lenrned how to use markdown

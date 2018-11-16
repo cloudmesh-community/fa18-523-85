@@ -8,8 +8,8 @@
 
 ---
 
-Keywords: E-commerce, Consumer Behaviors, Python, TensorFlow, big data, deep
-learning
+Keywords: E-commerce, Consumer Behaviors, Python, TensorFlow, Big Data, Deep
+Learning
 
 ---
 

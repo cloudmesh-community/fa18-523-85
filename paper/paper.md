@@ -1,6 +1,6 @@
 # Big Data Analytics in E-commerce :smiley: fa18-523-85
 
-|Bo Li
+| Bo Li
 | bl15@iu.edu
 | Indiana University Bloomington
 | hid: fa18-523-85 

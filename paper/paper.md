@@ -1,4 +1,4 @@
-# Big Data Analytics in E-commerce :smiley: fa18-523-85
+# Big Data Analytics in E-commerce :wave: :exclamation: fa18-523-85
 
 | Bo Li
 | bl15@iu.edu

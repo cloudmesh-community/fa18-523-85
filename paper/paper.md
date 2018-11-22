@@ -13,6 +13,12 @@ Learning
 
 ---
 
+:o: This paper is to short to justify an abstract
+
+:o: This paper has very few refernces. We this topic is there not more out there
+
+:o: maybe ask somoen to help with grammar
+
 ## Abstract
 
 In recent years, online shopping has become a more popular way of consuming.

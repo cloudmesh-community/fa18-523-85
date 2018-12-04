@@ -68,24 +68,13 @@ Naive Bayes classifiers are highly scalable, requiring a number of parameters li
 
 ### Data Visualization 
 
+## Benchmark
 
 ## Conclusion
 
 The conclusion drawn by the previous analytics, which could be the picture of owned consumers, the predict of the consumer’s preferences.
 
-## Limitations
-
-The limitations in the analytics caused by the selection of research method, algorithms, models or the character of the dataset.
 
 
 
-## Reference
 
-
-
-* [1] Shmueli, G. (2017). Research dilemmas with behavioral big data. Big Data, 5(2), 98.
-* [2] https://www.kaggle.com/mehdidag/black-friday/home
-* [3] https://hackernoon.com/introduction-of-tensorflow-with-python-f4a9624f2ab2
-* [4] https://towardsdatascience.com/a-beginner-introduction-to-tensorflow-part-1-6d139e038278
-* [5] https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
-* [6] https://en.wikipedia.org/wiki/Naive_Bayes_classifier

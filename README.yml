@@ -11,8 +11,8 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/daal-intel.md   
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/osgi.md   
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lxc.md   
-  - url: https://github.com/cloudmesh/technologies/chapters/tech/couchbase-server.md   
-  - url: https://github.com/cloudmesh/technologies/chapters/tech/vsphere-and-vcloud.md   
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/couchbase-server.md   
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/vsphere-and-vcloud.md   
 paper:
   - title: Big Data Analytics in E-commerce
     keyword: E-commerce

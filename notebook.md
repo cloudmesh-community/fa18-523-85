@@ -1,8 +1,33 @@
 You will add to your notebook in bullet form for each week what you have done. Please make sure you update it every week even if you have no time to work on anything. YOu can surely spend 2 minutes to update this document.   
 
+# Week Fri 11/30/18 - 12/04/18
+
+* Finished the project and trying to review it to make sure it works well
+* Finished the paper of the project
+* Tried to make some improvments of the paper
+
+# Week Fri 11/23/18 - 11/29/18
+
+* Done the majority part of the project
+* Used the tools to analysis the data
+* Wrote part of the project paper
+
+
+# Week Fri 11/16/18 - 11/22/18
+
+* Worked on the project, conducted some exploration data analysis
+* Got familar with the tools that will be used in the project
+* Reviewed the paper and made some improvement on it
+
+# Week Fri 11/09/18 - 11/15/18
+
+* Worked on the project, do some data cleaning work
+* Read some paper about the topic of the project
+* Conducted some basic work of the dataset prepared for the fianl project
+
 # Week Fri 11/02/18 - 11/08/18
 
-* Conducted some work t improve the paper
+* Conducted some work to improve the paper
 * Improved the citiation of the paper
 * Conducted some basic work of the dataset prepared for the fianl project
 

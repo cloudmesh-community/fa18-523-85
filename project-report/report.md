@@ -1,4 +1,4 @@
-# Big Data in Sales Analytics :hand: fa18-523-85 (finished the analysis, writing the paper)
+# Big Data and Commercial Data Analytics :hand: fa18-523-85 (finished the analysis, writing the paper)
 
 | Bo Li
 | bl15@iu.edu

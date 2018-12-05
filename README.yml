@@ -19,8 +19,8 @@ paper:
     url: https://github.com/cloudmesh-community/fa18-523-85/blob/master/paper/paper.md
     group: fa18-523-85
 project:
-  - title: Analytics in Consumer Behaviors in Black Friday with TensorFlow
-    keyword: Consumer Tensorflow
+  - title: Big Data and Commercial Data Analytics
+    keyword: Commercial Data
     url: https://github.com/cloudmesh-community/fa18-523-85/blob/master/project-report/report.md
     group: fa18-523-85
     code: https://github.com/cloudmesh-community/fa18-523-85/tree/master/project-code

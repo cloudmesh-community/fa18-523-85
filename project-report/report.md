@@ -1,4 +1,4 @@
-# Big Data and Commercial Data Analytics :hand: fa18-523-85   
+# Big Data and Commercial Data Analytics :smiley: fa18-523-85   
 
 | Bo Li
 | bl15@iu.edu

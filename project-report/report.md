@@ -4,7 +4,7 @@
 | bl15@iu.edu
 | Indiana University Bloomington
 | hid: fa18-523-85 
-| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-85/blob/master/paper/paper.md)
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-85/blob/master/project-report/report.md
 
 
 ## Abstract

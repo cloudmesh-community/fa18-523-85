@@ -1,4 +1,4 @@
-# Big Data and Commercial Data Analytics :smiley: fa18-523-85   
+# Big Data and Commercial Data Analytics :wave: fa18-523-85   
 
 | Bo Li
 | bl15@iu.edu
@@ -6,6 +6,7 @@
 | hid: fa18-523-85 
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-85/blob/master/project-report/report.md)
 
+:o: revisit figure captions, and also mentinong the figure in a full sentence as in our sample chapter
 
 ## Abstract
 

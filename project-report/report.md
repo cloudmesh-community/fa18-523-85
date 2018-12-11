@@ -190,6 +190,6 @@ The blueprint of application could help the managers to recognize the value poin
 The data blueprint could help us to establish the framework and specify the data collection standards. The framework of big data is supported by the classification of the data, which contains basic data of the business, behavior data and the picture data of customers [@chen2014data]. To make the data source clear, we need to divide them into different kinds, internal data from the company, data from the product chain, data from the upper or lower companies and social data. If we can use the technologies in an appropriate way, big data will save us a lot of time [@davenport2013big]. Considering the needs of the company and the tendency, we need to compare different main technologies, from different perspectives. Hardware platform, data storage and management, calculation, data analysis, data visualization, and data safety. Comparing with their advantages and disadvantages, then make the choice of technology. To help the company establish an effective and durable management system, it is necessary to collect the data in the process stream.   
 
 
-# Acknowledgement   
+## Acknowledgement   
 
 We would like to thank Professor Gregor von Laszweski for all his support in this project. We would also like to thank the TAs for their support to help me finish this project.

@@ -5,7 +5,8 @@ owner:
   hid: "fa18-523-85"
   community: "e534"
   profile: "https://github.com/Hidgons"
-  semester: fa-18
+  semester: "fa18"   
+  online: "No"
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/blaze.md   
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/daal-intel.md   
